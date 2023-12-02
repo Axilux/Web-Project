@@ -337,11 +337,11 @@
 
 }
 
-.mainimg--container{
+.main__img--container{
     text-align:center;
 }
 
-#mainimg{
+#main__img{
     height:80%;
     width:80;
 }
